@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HappyEmployeeList</string>
+    <string name="empty_office">You are now entering an empty office. You have the magic to pull to refresh the employees…</string>
+    <string name="fetch_employee_list_error">Well, not exactly what we hoped for. There is some error. You have the power to pull to refresh…</string>
+    <string name="home_top_bar_title_success">Happy Employees</string>
+    <string name="home_top_bar_title_empty">Hire Some Employees</string>
+    <string name="home_top_bar_title_error">Oops…</string>
+    <string name="info_dialog_btn_txt_got_it">Got it</string>
+</resources>
