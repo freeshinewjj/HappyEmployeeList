@@ -43,4 +43,6 @@ With the foundation in place, I am overall satisfied with each part of the proje
 No.
 
 ## Is there any other information you’d like us to know?
-The Ui views are made by Jetpack Compose.
+- The Ui views are made by Jetpack Compose.
+- Pull to refresh is supported. Currently, we will loading employee list from 3 of the endpoints randomly based on their wights. Default wight configuration is 3:1:1
+- If you encounter any error page, please pull to refresh.
